@@ -1,1 +1,1 @@
-# hotel web page
+# hotel web page via React
