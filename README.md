@@ -1,1 +1,1 @@
-# hotel-starter
+# hotel web page
